@@ -16,8 +16,8 @@ Instrucciones paso a paso para configurar el proyecto localmente.
 Clona este repositorio en tu máquina local usando:
 
 ```bash
-git clone [URL del repositorio]
-cd [nombre del directorio del proyecto]
+git clone git@github.com:lfam200/prueba2024.git
+cd prueba2024
 ```
 
 ### Reemplazar archivo .env
