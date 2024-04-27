@@ -52,6 +52,18 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php80" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/graham-campbell" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/myclabs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nikic" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phar-io" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sebastian" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/theseer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vlucas" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
